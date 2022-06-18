@@ -2,7 +2,7 @@
 .Test
 .on
 .coding
-.on thos  week we have nice weather.
+.on this  week we have nice weather.
 .in belgium
 
 
